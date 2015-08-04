@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/zhengyuanjie/Downloads/Friday/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.1.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a78bfd2ec508b123ee7c03f4006ba7996ef9a8dc">
+        <dex dex="/Users/zhengyuanjie/Downloads/Friday/app/build/intermediates/pre-dexed/debug/classes-ecfc5bb0a55a86d2f3b56be4411240fa84ffe725.jar" />
+    </item>
+    <item
+        jar="/Users/zhengyuanjie/.gradle/caches/modules-2/files-2.1/com.mcxiaoke.volley/library/1.0.18/38da306aafee11459cd935a01d2c92a98dc670a4/library-1.0.18.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="38da306aafee11459cd935a01d2c92a98dc670a4">
+        <dex dex="/Users/zhengyuanjie/Downloads/Friday/app/build/intermediates/pre-dexed/debug/library-1.0.18-4d3832b94638ff4b9f067a7b063967991b3256b2.jar" />
+    </item>
+    <item
+        jar="/Users/zhengyuanjie/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.2.0/support-annotations-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
+        <dex dex="/Users/zhengyuanjie/Downloads/Friday/app/build/intermediates/pre-dexed/debug/support-annotations-22.2.0-5e67d50d6fe125a5cc31af594804d18e9f944bc9.jar" />
+    </item>
+    <item
+        jar="/Users/zhengyuanjie/Downloads/Friday/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
+        <dex dex="/Users/zhengyuanjie/Downloads/Friday/app/build/intermediates/pre-dexed/debug/classes-8b9d927891bba634ff5ce60ce910f1b9ce07996e.jar" />
+    </item>
+    <item
+        jar="/Users/zhengyuanjie/Downloads/Friday/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
+        <dex dex="/Users/zhengyuanjie/Downloads/Friday/app/build/intermediates/pre-dexed/debug/classes-159c3f3927511f0891ebb536b8ebf1f27d4818b8.jar" />
+    </item>
+    <item
+        jar="/Users/zhengyuanjie/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-android/1.2.0/6ee2953ccf51ce72b6d548c30c4633b99eb4f9dd/bolts-android-1.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="6ee2953ccf51ce72b6d548c30c4633b99eb4f9dd">
+        <dex dex="/Users/zhengyuanjie/Downloads/Friday/app/build/intermediates/pre-dexed/debug/bolts-android-1.2.0-78f71f6017f8084a96c1f7ff93a32eaa853b3c72.jar" />
+    </item>
+    <item
+        jar="/Users/zhengyuanjie/Downloads/Friday/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/libs/internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
+        <dex dex="/Users/zhengyuanjie/Downloads/Friday/app/build/intermediates/pre-dexed/debug/internal_impl-22.2.0-b4d0ed65e4f86f87d63a4da29c924be9dd3600e2.jar" />
+    </item>
+
+</items>
