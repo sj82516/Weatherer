@@ -2,7 +2,7 @@
 ##介紹  
 這是在智慧生活課設計的APP  
 主要是讓人可以對於當下的天氣評分  
-頁面滑動是以Fragment搭配Toolbar實作  
+頁面切換是以Fragment搭配Toolbar實作  
 APP主要有三個畫面  
 
 ##頁面一
@@ -19,4 +19,5 @@ APP主要有三個畫面
 ![alt tag](https://github.com/sj82516/Weatherer/blob/master/img/app3.jpg)  
 1.實作listView動態增加功能，每次刷新增加五筆資料，增加使用流暢  
 2.加入FB登入留言功能  
-3.畫面上方資料讀取Server端資訊
+3.畫面上方資料讀取Server端資訊  
+4.資訊使用JSON格式與Server溝通，Server使用python架設，格式為Restful API
